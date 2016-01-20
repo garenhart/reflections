@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Branches are used either locally or remotely, usually to create a different verion or an experimental copy of the master repository.
 	
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It is always a good idea to check out the latest copy of the remote to avoid merge conflicts. Storing local copy of latest state and committing and pushing changes in small chuncks make it much easier to maintain the source.	
