@@ -13,7 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-	Brnaches are useful for experimental some features, alternative languages, demo versions. etc.. Branches help in doing all of this without geopardising the main code.
+	Branches are useful for experimental some features, alternative languages, demo versions. etc.. Branches help in doing all of this without geopardising the main code.
 
 How do the diagrams help you visualize the branch structure?
 	Diagrams help to see then code organization, the parent of each commit, and assist in merging as needed.
@@ -26,4 +26,4 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 	pros: When the branches being merged have unrelated changes the merge just happens automatically. In any case automatic merge allows you to concentrate on conflicts without spending much time figuring out the differences.
 
-	cons: Automatic merging algorythms are a huge potential risk if the logic is trying to be too smart.	
+	cons: Automatic merging algorithms are a huge potential risk if the logic is trying to be too smart.	
